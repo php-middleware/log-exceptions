@@ -1,4 +1,4 @@
-# log-exceptions
+# log-exceptions [![Build Status](https://travis-ci.org/php-middleware/log-exceptions.svg?branch=master)](https://travis-ci.org/php-middleware/log-exceptions)
 
 Log all exceptions from your middlewares
 
